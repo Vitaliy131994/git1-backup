@@ -193,7 +193,7 @@ $RECYCLE.BIN/
 .sass-cache
 
 # Visual Studio 2014 CTP
-**/*.s ln.ide
+**/*.sln.ide
 
 # Visual Studio temp something
 .vs/
